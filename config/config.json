@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "olamigoke",
+    "database": "booking_express",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "olamigoke",
+    "database": "booking_express",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
