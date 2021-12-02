@@ -1,6 +1,7 @@
 const Doctor = require("../models").Doctor;
 const Patient = require("../models").Patient;
 
+// codes
 module.exports = function(router) {
   router.get("/api/patients", (req, res) => {
     Patient.findAll({
